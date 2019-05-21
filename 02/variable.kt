@@ -20,6 +20,10 @@ fun main(args: Array<String>){
 
     val three = one + two 
     println(three)
-
     // 色々やってみよう！
+
+    // 一度宣言した型には従おう！
+    var hoge: String = "hogehoge"
+    hoge = 1 //String型にIntの数字を入れるとエラー！ 
+    println(hoge)
 }
