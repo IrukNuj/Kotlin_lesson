@@ -11,7 +11,12 @@ https://play.kotlinlang.org
 
 ```kotlin
 fun main(args: Array<String>) {
-    println("Hello, World!")
+    println("Hello, World!")if ! command_exists carthage ; then
+    echo "----- golang -----"
+    brew install go
+    echo " ------------ END ------------"
+fi
+
 }
 ```
 
