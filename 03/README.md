@@ -1,4 +1,4 @@
-# roop文
+# loop文
 慣れてる方は[こちら](https://qiita.com/PinappleHunter/items/21f0b387454c85f5d813)でさらっとどうぞ(
 
 ```kotlin
