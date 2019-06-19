@@ -21,7 +21,7 @@ fun main(args: Array<String>){
     var one = 1
     one = 2
     one = 1
-    val two = 2
+    val two: Int = 2
 
     val three = one + two 
     println(three)
